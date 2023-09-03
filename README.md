@@ -10,7 +10,7 @@ Codes contained include:
   6) Naive Bayes
   7) SVM
   8) RVM
-  9) regularization techniques
+  9) regularization techniques (need to upload)
   10) MLP
   11) CNN
   12) HMM
